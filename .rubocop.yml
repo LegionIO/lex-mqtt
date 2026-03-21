@@ -1,0 +1,19 @@
+require:
+  - rubocop-rspec
+AllCops:
+  NewCops: enable
+  TargetRubyVersion: 3.4
+  SuggestExtensions: false
+RSpec/ExampleLength:
+  Enabled: false
+RSpec/MultipleExpectations:
+  Enabled: false
+RSpec/NestedGroups:
+  Enabled: false
+Metrics/BlockLength:
+  Exclude:
+    - spec/**/*
+Naming/PredicateMethod:
+  Enabled: false
+Style/Documentation:
+  Enabled: false
