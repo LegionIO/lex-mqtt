@@ -10,7 +10,7 @@ Legion Extension that connects LegionIO to MQTT brokers. Provides runners for pu
 
 **GitHub**: https://github.com/LegionIO/lex-mqtt
 **License**: MIT
-**Version**: 0.1.0
+**Version**: 0.1.2
 
 ## Architecture
 
